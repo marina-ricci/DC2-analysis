@@ -1,0 +1,9 @@
+[NbConvertApp] WARNING | Config option `startup_timeout` not recognized by `ExecutePreprocessor`.  Did you mean one of: `interrupt_on_timeout, iopub_timeout, timeout`?
+[NbConvertApp] Converting notebook dm_butler_lensing_cuts.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: desc-stack
+CameraMapper INFO: Loading exposure registry from /global/cscratch1/sd/desc/DC2/ALCF_Run1.2i/newcalibration/w_2018_39/registry.sqlite3
+CameraMapper INFO: Loading calib registry from /global/cscratch1/sd/desc/DC2/ALCF_Run1.2i/newcalibration/w_2018_39/CALIB/calibRegistry.sqlite3
+CameraMapper INFO: Loading calib registry from /global/cscratch1/sd/desc/DC2/ALCF_Run1.2i/newcalibration/w_2018_39/CALIB/calibRegistry.sqlite3
+LsstCamMapper WARN: Unable to find valid calib root directory
+LsstCamMapper WARN: Unable to find valid calib root directory
+[NbConvertApp] Writing 216356 bytes to dm_butler_lensing_cuts.nbconvert.ipynb

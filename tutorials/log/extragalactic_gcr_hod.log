@@ -1,0 +1,12 @@
+[NbConvertApp] WARNING | Config option `startup_timeout` not recognized by `ExecutePreprocessor`.  Did you mean one of: `interrupt_on_timeout, iopub_timeout, timeout`?
+[NbConvertApp] Converting notebook extragalactic_gcr_hod.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: desc-python
+/global/common/software/lsst/common/miniconda/setup_current_python.sh: line 20: module: command not found
+/global/common/software/lsst/common/miniconda/setup_current_python.sh: line 21: module: command not found
+/global/common/software/lsst/common/miniconda/setup_current_python.sh: line 22: module: command not found
+/global/common/software/lsst/common/miniconda/setup_current_python.sh: line 23: module: command not found
+/global/common/software/lsst/common/miniconda/setup_current_python.sh: line 24: module: command not found
+/global/common/software/lsst/common/miniconda/setup_current_python.sh: line 25: module: command not found
+/global/common/software/lsst/common/miniconda/setup_current_python.sh: line 26: module: command not found
+Now using /global/common/software/lsst/common/miniconda/current
+[NbConvertApp] Writing 132461 bytes to extragalactic_gcr_hod.nbconvert.ipynb
